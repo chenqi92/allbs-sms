@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "sms.url",
+      "description": "APP接入地址+接口访问URI",
+      "defaultValue": ""
+    },
+    {
+      "name": "sms.app-key",
+      "description": "APP_Key",
+      "defaultValue": ""
+    },
+    {
+      "name": "sms.app-secret",
+      "description": "APP_Secret",
+      "defaultValue": ""
+    },
+    {
+      "name": "sms.sender",
+      "description": "国内短信签名通道号或国际/港澳台短信通道号",
+      "defaultValue": ""
+    },
+    {
+      "name": "sms.signature",
+      "description": "签名名称",
+      "defaultValue": ""
+    }
+  ]
+}
